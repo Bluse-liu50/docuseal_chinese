@@ -5052,7 +5052,10 @@ ko:
   verification_code: 인증 코드
   resend_code: 코드 재전송
 
-zh-CN: &zh-CN
+zh-CN:
+  date:
+    formats:
+      default: "%Y/%m/%d"
   hi_there: 你好
   thanks: 谢谢
   bcc_recipients: 密送收件人
